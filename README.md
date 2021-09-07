@@ -7,7 +7,9 @@ Our team members used 2 approaches: 1)NodeJS with HTML, CSS and Javascript 2)Pyt
 In both approaches, we have integrated a front-end page with the cleaned dataset and operations in the back-end.The filtered dataset contains only the stock values for one symbol and various charts were constructed using various APIs on same dataset.
 
 APPROACH 1:
+
 API: chartJS, apexCharts
+
 Technology: HTML,CSS,ExpressJS,NodeJS
 
 APPROACH 2:
