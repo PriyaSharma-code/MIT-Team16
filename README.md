@@ -13,7 +13,9 @@ API: chartJS, apexCharts
 Technology: HTML,CSS,ExpressJS,NodeJS
 
 APPROACH 2:
+
 Following Program Displays a Financial Dashboard for viewing OHLC charts.
+
 Following charts are displayed on the Dashboard:
 1. OHLC
 2. CandleStick
@@ -31,4 +33,4 @@ Data has been organized for 100 stock entries of the top 20 stocks in the file "
 
 Sample outputs are included in the pdf file
 
-created by  MITWPU Group 16
+Created by  MITWPU Group 16
